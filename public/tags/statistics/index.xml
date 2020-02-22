@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on Ines Krissaane</title>
+    <link>https://ineskris.github.io/tags/statistics/</link>
+    <description>Recent content in Statistics on Ines Krissaane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ineskris.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markov chains for detection of genetic motifs</title>
+      <link>https://ineskris.github.io/project/markov-chains/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ineskris.github.io/project/markov-chains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>American Election Analysis (2016)</title>
+      <link>https://ineskris.github.io/project/americanelection/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ineskris.github.io/project/americanelection/</guid>
+      <description>&lt;p&gt;I have predicted that Hillary Clinton will win :/&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

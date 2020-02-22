@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk2s on Ines Krissaane</title>
+    <link>https://ineskris.github.io/talk2/</link>
+    <description>Recent content in Talk2s on Ines Krissaane</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ineskris.github.io/talk2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computing in Cardiology 2019</title>
+      <link>https://ineskris.github.io/talk2/singapour/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ineskris.github.io/talk2/singapour/</guid>
+      <description>&lt;p&gt;Computing in Cardiology (formerly Computers in Cardiology) is an international scientific conference that has been held annually since 1974. CinC provides a forum for scientists and professionals from the fields of medicine, physics, engineering and computer science to discuss their current research in topics pertaining to computing in clinical cardiology and cardiovascular physiology.&lt;/p&gt;
+
+&lt;p&gt;I presented a poster &amp;ldquo;Anomaly Detection Semi-Supervised Framework for Sepsis Treatment&amp;rdquo; for early detection of Sepsis in response to the &lt;a href=&#34;https://physionet.org/content/challenge-2019/1.0.0/&#34;&gt;PhysioNet Computing in Cardiology Challenge 2019 &lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Summer School 2019</title>
+      <link>https://ineskris.github.io/talk2/mllss/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ineskris.github.io/talk2/mllss/</guid>
+      <description>&lt;p&gt;The Machine Learning Summer School (MLSS) is a 12-days event where participants take intensive courses on a variety of topics in machine learning, ranging from optimization and Bayesian inference to deep learning, reinforcement learning and Gaussian processes (see topics). The objective of the MLSS is to give a broad overview of many relevant topics in machine learning and to help training the next generation of machine learning researchers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Precision Medicine 2019</title>
+      <link>https://ineskris.github.io/talk2/precisionmedecine/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ineskris.github.io/talk2/precisionmedecine/</guid>
+      <description>&lt;p&gt;Recent progress in artificial intelligence has been touted as the solution for many of the challenges facing clinicians and patients in diagnosing and treating disease. Concurrently, there is a growing concern about the biases and lapses caused by the use of algorithms that are incompletely understood. Yet precision medicine* requires sifting through millions of individuals measured with thousands of variables: an analysis that defeats human cognitive capabilities. In this conference, we ask the question whether AI can be used effectively to accelerate precision medicine in ways that are safe, non-discriminatory, affordable and in the patient’s best interest. To answer the question, we have three panels and three keynote speakers. The first panel addresses the question of Policy and the Patient: Who’s in Control? We will review the intersection of consent, transparency and regulatory oversight in this very dynamic ethical landscape. The second panel, Is there Value in Prediction?, addresses a widely-shared challenge in medicine, which is to predict the patient’s future, and most importantly, their response to therapy. Can AI actually make a contribution in this area? The third panel on Hyperindividualized Treatments asks the question of how to think about a future that is fast becoming the present, where therapy is “hyper-individualized,” so it is the very uniqueness of your genome that determines your therapy. As always, we have a patient representative for our opening keynote, Matt Might, who returns to this annual conference to discuss the development of an algorithm for conducting precision medicine, through the lens of a personal story: discovering that his child was the first case of a new, ultra-rare genetic disorder. Our midday keynote by Professor Regina Barzilay will guide us through a personal journey from diagnosis to an exciting agenda to increase precision in discovery of cancer treatments and improved delivery of cancer care. Our closing keynote will be given by Jim Tananbaum of Foresite Capital. He is one of the original investors and drivers of Insitro, an AI company that seeks to become a full service therapeutic engine. We hope this conference will create a larger consensus around these still controversial and mostly uncharted questions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
